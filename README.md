@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pratap.majge@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pratap-m-869a36316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/pratap-m-869a36316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pratap-m-869a36316?](https://www.linkedin.com/in/pratap-m-869a36316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
