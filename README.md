@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapmajge&label=Profile%20views&color=0e75b6&style=flat" alt="pratapmajge" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning MERN 
 
-- 💬 Ask me about **PHP , MySQL**
+- 💬 Ask me about **PHP , MySQL** , JavaScript , ReactJs
 
 - 📫 How to reach me **pratap.majge@gmail.com**
 
