@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapmajge&label=Profile%20views&color=0e75b6&style=flat" alt="pratapmajge" /> </p>
 
-- 🌱 I’m currently learning MERN 
+- 🌱 I have Strong Foundation in Full stack development (MERN) 
 
-- 💬 Ask me about **PHP , MySQL** , JavaScript , ReactJs
+- 💬 Ask me about **MERN , Java** , PHP , MongoDB , MySQL 
 
 - 📫 How to reach me **pratap.majge@gmail.com**
 
