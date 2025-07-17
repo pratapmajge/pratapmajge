@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratap Majge</h1>
-<h3 align="center">💡 Full Stack Developer | MERN | PHP | Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | MERN | PHP | Java | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Crafting+robust+web+apps+using+MERN+and+PHP;Transforming+ideas+into+scalable+solutions;Focused+on+clean+code,+performance+%26+UX;Driven+to+solve+real+world+problems+with+tech!" alt="Typing SVG" />
+  Passionate about building robust and scalable web applications using the MERN stack, PHP, and Java. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 </p>
 
 
