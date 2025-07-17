@@ -1,68 +1,57 @@
-<h1 align="center">Hi 👋, I'm Pratap</h1>
-<h3 align="center">Turning ideas into apps | MERN & PHP stack developer</h3>
+<h1 align="center">Hi 👋, I'm Pratap Majge</h1>
+<h3 align="center">Passionate Full Stack Developer | MERN | PHP | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratapmajge&label=Profile%20views&color=0e75b6&style=flat" alt="pratapmajge" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+with+PHP+%26+Node.js;Always+Learning+New+Tech!" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎯 Focused on: **ERP, Exam Portal**  
-- 🔧 Love working on: **User-focused solutions & backend logic**
-- 🏙️ Location: **Pune**
-- 📫 Email: **majgepratap1504@gmail.com**  
-- 🌐 Portfolio: [my-portfolio-azure-kappa-51.vercel.app](https://my-portfolio-azure-kappa-51.vercel.app)
+- 💡 Exploring opportunities in **Web Development**, **System Design**, and **Scalable Applications**  
+- 👨‍💻 I have built real-world applications in **MERN Stack**, **PHP**, and **MySQL**
+- 🛠️ Technologies I work with:
+  - **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind
+  - **Backend:** Node.js, Express.js, PHP
+  - **Database:** MongoDB, MySQL
+- 🧠 Currently learning: **TypeScript** and **Next.js**
+- 💬 Ask me about **Full Stack Web Development**, **MongoDB**, **Express**, **React**, **Node**, and **PHP**
 
 ---
 
-### 🤝 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/pratap-m-12j2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/majge_pratap?igsh=MW9ydnBxcm5kZ3liaw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+### 🧰 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pratapmajge](https://www.linkedin.com/in/pratap-m-12j2004))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/majge_pratap?igsh=MW9ydnBxcm5kZ3liaw==)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:majgepratap1504@gmail.com)
 
-#### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+---
 
-#### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-#### 🖥️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-#### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### 🔧 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+### ⚡ GitHub Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pratapmajge&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pratapmajge&theme=radical" />
 </p>
 
 ---
 
-### 🏆 Achievements
-<p>
-  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/github-profile-trophy.png" width="100" alt="achievement" />
-</p>
+### 📖 Quote I Believe In
+> “Consistency beats talent when talent doesn’t work consistently.”
+
+---
+
+🔗 **Thanks for visiting! Let’s build something amazing.**
