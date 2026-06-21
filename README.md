@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Pratap Majge</h1>
-<h3 align="center">💻 Full Stack Developer | MERN | PHP | Java | Problem Solver</h3>
+<h1 align="center">Hi , I'm Pratap Majge</h1>
+<h3 align="center"> Full Stack Developer | MERN | Java Spring Boot | Problem Solver</h3>
 
 <p align="center">
-  Passionate about building robust and scalable web applications using the MERN stack, PHP, and Java. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+  Passionate about building robust and scalable applications using the MERN stack, PHP, and Java. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 </p>
 
 ---
 
-### 🚀 About Me
-- 💡 Exploring opportunities in **Software Development**, **System Design**, and **Scalable Applications**  
-- 👨‍💻 I have built real-world applications in **Full Stack**, **PHP**, and **MySQL**
-- 🛠️ Technologies I work with:
+###  About Me
+-  Exploring opportunities in **Software Development**, **System Design**, and **Scalable Applications**  
+-  I have built real-world applications in **Full Stack**, **PHP**, and **MySQL**
+-  Technologies I work with:
   - **Frontend:** React.js, JavaScript, Bootstrap, Tailwind, HTML5, CSS3
   - **Backend:** Node.js, Express.js, Spring Boot, Spring MVC  PHP
   - **Database:** MongoDB, MySQL
-- 🧠 Currently learning: **TypeScript** and **Next.js**
-- 💬 Ask me about **Full Stack Development**, **MongoDB**, **Express**, **React**, **Node**, **PHP**, and **Java**
+-  Currently learning: **TypeScript** and **Next.js**
+-  Ask me about **Full Stack Development**, **MongoDB**, **Express**, **React**, **Node**, **PHP**, and **Java**
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pratap-m-12j2004"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/majge_pratap?igsh=MW9ydnBxcm5kZ3liaw=="><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
@@ -46,7 +46,7 @@
 
 ---
 
-### ⚡ GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratapmajge&show_icons=true&theme=radical" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 📖 Quote I Believe In
+###  Quote I Believe In
 > “Consistency beats talent when talent doesn’t work consistently.”
 
 ---
