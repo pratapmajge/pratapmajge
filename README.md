@@ -8,14 +8,14 @@
 ---
 
 ### 🚀 About Me
-- 💡 Exploring opportunities in **Web Development**, **System Design**, and **Scalable Applications**  
-- 👨‍💻 I have built real-world applications in **MERN Stack**, **PHP**, and **MySQL**
+- 💡 Exploring opportunities in **Software Development**, **System Design**, and **Scalable Applications**  
+- 👨‍💻 I have built real-world applications in **Full Stack**, **PHP**, and **MySQL**
 - 🛠️ Technologies I work with:
-  - **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind
-  - **Backend:** Node.js, Express.js, PHP
+  - **Frontend:** React.js, JavaScript, Bootstrap, Tailwind, HTML5, CSS3
+  - **Backend:** Node.js, Express.js, Spring Boot, Spring MVC  PHP
   - **Database:** MongoDB, MySQL
 - 🧠 Currently learning: **TypeScript** and **Next.js**
-- 💬 Ask me about **Full Stack Web Development**, **MongoDB**, **Express**, **React**, **Node**, **PHP**, and **Java**
+- 💬 Ask me about **Full Stack Development**, **MongoDB**, **Express**, **React**, **Node**, **PHP**, and **Java**
 
 ---
 
