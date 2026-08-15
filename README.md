@@ -36,6 +36,18 @@
 
 ---
 
+### Open Source Contributions
+
+#### Ericsson — ecChronos
+
+Contributed to Ericsson's open-source **ecChronos** project.
+
+- Pull request was **reviewed, approved, and merged into the `master` branch**
+
+🔗 **Merged Pull Request:** [Add JSON output format for ecctool state #1745](https://github.com/Ericsson/ecchronos/pull/1745)
+
+---
+
 ### GitHub Stats
 
 <div align="center">
